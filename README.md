@@ -46,6 +46,9 @@ Each model was wrapped in a pipeline (`Scaler → Estimator`) for consistent pre
 The **GradientBoostingClassifier** achieved the highest test accuracy (≈**83.56**), with strong precision and recall across both income classes.  
 This model was serialized using `joblib` for deployment as `best_model.pkl`.
 
+<img width="1520" height="1340" alt="image" src="https://github.com/user-attachments/assets/f00aa4a5-1a4a-4e76-90c2-d5dfb27c88b5" />
+
+
 ---
 
 ## 📊 Visualizations
