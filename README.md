@@ -59,6 +59,11 @@ Exploratory and model diagnostics (Matplotlib/Seaborn):
 ## 🚀 Streamlit App
 A user-friendly interface (`app.py`) allows real-time predictions.
 
+##Result 
+https://employee-salary-prediction-rjiukkh9hyzf2wftsyausu.streamlit.app/
+<img width="2936" height="1664" alt="image" src="https://github.com/user-attachments/assets/899c830e-b514-47f7-8f3a-ffa0589f0af0" />
+
+
 ### Features
 - Input form for employee attributes (dropdowns/text fields)
 - Preprocessing mirrors training pipeline (same encoders/scalers)
