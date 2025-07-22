@@ -43,7 +43,7 @@ Each model was wrapped in a pipeline (`Scaler → Estimator`) for consistent pre
 - **Secondary:** Precision, Recall, F1-score (via `classification_report`)
 
 ### Best Model
-The **GradientBoostingClassifier** achieved the highest test accuracy (≈**X.XX** – replace with your actual value), with strong precision and recall across both income classes.  
+The **GradientBoostingClassifier** achieved the highest test accuracy (≈**83.56**), with strong precision and recall across both income classes.  
 This model was serialized using `joblib` for deployment as `best_model.pkl`.
 
 ---
